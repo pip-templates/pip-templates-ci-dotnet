@@ -1,0 +1,6 @@
+{
+    "name": "component-name-dotnet",
+    "registry": "docker.pkg.github.com/organization/repository",
+    "version": "1.0.0",
+    "build": 0
+}
